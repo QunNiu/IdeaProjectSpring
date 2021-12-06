@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("HelloWorld");
         System.out.println("第一次修改");
         System.out.println("第二次修改");
+        System.out.println("热修复完成");
     }
 }
