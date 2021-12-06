@@ -12,5 +12,6 @@ public class GitTest {
         System.out.println("热修复完成");
         System.out.println("master test");
         System.out.println("hot-fix完成");
+        System.out.println("push test");
     }
 }
