@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="2_leetcode" />
+        <module name="spring_itheima_source" />
+        <module name="3_jedis" />
+        <module name="spring_itheima_cookies" />
+        <module name="1_bishi" />
+        <module name="spring_ithtima_annotation" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="1_bishi" target="1.8" />
+      <module name="2_leetcode" target="1.8" />
+      <module name="3_jedis" target="1.8" />
+      <module name="annotation" target="1.8" />
+      <module name="spring_itheima_cookies" target="1.8" />
+      <module name="spring_itheima_source" target="1.8" />
+      <module name="spring_ithtima_annotation" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
